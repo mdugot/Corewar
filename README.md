@@ -5,8 +5,8 @@ See https://en.wikipedia.org/wiki/Core_War.
 
 This project is composed of two parts.  
 
-An assembler that assemble the battle programs.  
-It converts a file .s write in Redcode to a binary file .cor.  
+An assembler that assembles the battle programs.  
+It converts a file .s writed in Redcode to a binary file .cor.  
 > ./asm file.s  
 
 And the virtual computer where the battle programs are loaded end executed.  
